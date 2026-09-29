@@ -53,3 +53,16 @@ body {
   width: auto;
   height: 200px; /* Maintain aspect ratio */
 }
+
+.timeline-year {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #111111;
+  margin: 1.5rem 0 0.5rem;
+  padding-left: 1rem;
+  border-left: 4px solid #111111;
+}
+
+.timeline-entry {
+  align-items: center;
+}
